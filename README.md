@@ -62,7 +62,7 @@ CEHv13-Modules/
 
 ## ✅ All CEH v13 Modules Covered
 
-1. Introduction to Ethical Hacking  
+1. Introduction to Ethical Hacking 
 2. Footprinting and Reconnaissance  
 3. Scanning Networks  
 4. Enumeration  
